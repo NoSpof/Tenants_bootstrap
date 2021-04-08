@@ -1,9 +1,0 @@
-teams:
-  - name: team1
-    ressources:
-      cpu:
-        limit: 1
-        request: 0.1
-      ram:
-        limit: 256Mi
-        request: 128Mi
